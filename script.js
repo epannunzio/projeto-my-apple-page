@@ -78,3 +78,7 @@ function atualizarImagemSelecionada() {
   imagemSelecionada = opcaoImagemSelecionada;
   imagemVisualizacao.src = `./imagens/opcoes-cores/${opcoesCores[corSelecionada].nomePastaImagens}/imagem-${imagemSelecionada}.jpeg`;
 }
+
+//menu hamburguer
+
+
